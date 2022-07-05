@@ -1,2 +1,8 @@
 [functions.size-9mb]
   included_files = ["9mb.mp4"]
+
+[functions.size-44mb]
+  included_files = ["44mb.mp4"]
+
+[functions.size-90mb]
+  included_files = ["90mb.mp4"]
